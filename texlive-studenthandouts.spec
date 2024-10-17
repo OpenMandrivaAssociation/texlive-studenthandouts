@@ -3,7 +3,7 @@ Version:	43516
 Release:	2
 Summary:	Management and styling of student handout projects
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/studenthandouts
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/studenthandouts
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/studenthandouts.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/studenthandouts.doc.r%{version}.tar.xz
